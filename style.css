@@ -1,0 +1,22 @@
+body { font-family: sans-serif; margin: 20px; }
+
+
+.pendaftaran {
+    background-color: #2880b9;
+    border: transparent;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.pendaftaran a { color: white; text-decoration: none; }
+
+
+.back {
+    margin-top: 5px;
+    background-color: #2880b9;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.back a { color: white; text-decoration: none; }
